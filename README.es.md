@@ -19,3 +19,7 @@ Paso 8: Genera un nuevo juego con Libgdx
 Paso 9: Carga el nuevo juego en Android Studio
 
 Paso 10: Finaliza tu juego y compártelo en Google Play o F-Droid si es Open Source
+
+# Aprende Advanced Android Game Development Con Libgdx
+
+Paso 1: Aprende Drag and Drop del proyecto Open Source "Caramelos" (https://github.com/luarca84/Caramelos)
