@@ -23,3 +23,5 @@ Paso 10: Finaliza tu juego y compártelo en Google Play o F-Droid si es Open Sou
 # Aprende Advanced Android Game Development Con Libgdx
 
 Paso 1: Aprende Drag and Drop del proyecto Open Source "Caramelos" (https://github.com/luarca84/Caramelos)
+
+Paso 2: Demo Multiplayer LibGDX game usando servidor NodeJS y Socket.IO para eventos. (https://github.com/BrentAureli/MultiplayerDemo)
